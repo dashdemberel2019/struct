@@ -23,7 +23,7 @@ namespace labConsole
         }
         static void Main(string[] args)
         {
-            Person[] p = new Person[1];
+            Person[] p = new Person[4];
             for (int i = 0; i < p.Length; i++)
                 p[i].input();
             for (int i = 0; i < p.Length; i++)
