@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive - MUBIS\Desktop\00Xicheeliin materialuud\Visual-C#\00Code\struct\bin\Debug\@struct.exe
+C:\Users\HP\OneDrive - MUBIS\Desktop\00Xicheeliin materialuud\Visual-C#\00Code\struct\bin\Debug\@struct.pdb
+C:\Users\HP\OneDrive - MUBIS\Desktop\00Xicheeliin materialuud\Visual-C#\00Code\struct\obj\Debug\struct.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive - MUBIS\Desktop\00Xicheeliin materialuud\Visual-C#\00Code\struct\obj\Debug\@struct.exe
+C:\Users\HP\OneDrive - MUBIS\Desktop\00Xicheeliin materialuud\Visual-C#\00Code\struct\obj\Debug\@struct.pdb
